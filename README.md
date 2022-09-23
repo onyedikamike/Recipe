@@ -1,56 +1,59 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Recipe
 
-> Description the project.
-
+> This is a ,,,,,,,
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
-
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+    node js
+    npm
+
 ### Setup
+
+Clone the repository and change the directory to portfolio
+
+```
+`$ git clone https://github.com/bobb-Rob/portfolio-project-1.git`
+
+  `$ cd portfolio-project-1`
+```
 
 ### Install
 
-### Usage
+Install all project dependencies by running the command below
 
-### Run tests
+```
+ ` $ npm install`
+```
 
-### Deployment
+## Usage
 
+Run
 
+```
+`$ npm start or deploy the index.html from the build folder
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Onyedika Mike**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/onyedikamike)
+- Twitter: [@twitterhandle](https://twitter.com/Onyedikamike2)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/OnyedikaOkoro)
 
 ## 🤝 Contributing
 
@@ -71,3 +74,12 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+inkedinhandle
+
+```
+
+```
+
+```
+
+```
